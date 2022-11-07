@@ -7,3 +7,5 @@ double squareRoot(const double a) {
         return -1.0;
     }else{
         return sqrt(a);
+    }
+}
